@@ -1,11 +1,9 @@
 /*
-First time? Check out the tutorial game:
-https://sprig.hackclub.com/gallery/getting_started
-
-@title: x
-@author: 
-@tags: []
-@addedOn: 2025-00-00
+@Title: Escape The Dungeon!
+@author: James Moser
+@Description: Escape the dungeon and claim the treasure :)
+@Tags: [Maze, Puzzle]
+@addedOn:2026-02-23
 */
 
 const player = "p"
